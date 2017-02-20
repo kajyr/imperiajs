@@ -1,0 +1,19 @@
+html {
+	font-size: 10px;
+}
+
+body {
+	background: url(../images/bg-1024.jpg) no-repeat top left;
+	background-size: cover;
+}
+
+.logo {
+	background: url(../images/js.svg) no-repeat top left;
+	text-indent: -9999px;
+   white-space: nowrap;
+   width: 4rem;
+   height: 4rem;
+}
+
+/* Hide only visually, but have it available for screenreaders: h5bp.com/v */
+.visuallyhidden { border: 0; clip: rect(0 0 0 0); height: 1px; margin: -1px; overflow: hidden; padding: 0; position: absolute; width: 1px; }
